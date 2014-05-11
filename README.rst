@@ -14,6 +14,8 @@ Here are some examples of built-in web servers:
 
     $ python -m SimpleHTTPServer
 
+.. code-block:: bash
+
     $ php -S localhost:8000
 
 Deployment to Heroku
