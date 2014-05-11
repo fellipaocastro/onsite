@@ -6,16 +6,12 @@ Chaordic - Code Challenge
 Usage
 -----
 
-In order to run it locally, it's recommended to make use of one of the following built-in web servers in the project's root path:
+In order to run it locally, it's recommended to make use a web server in the project's root path.
+Here are some examples of built-in web servers:
 
 .. code-block:: bash
 
     $ python -m SimpleHTTPServer
-
-or:
-
-.. code-block:: bash
-
     $ php -S localhost:8000
 
 Deployment to Heroku
