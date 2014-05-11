@@ -3,6 +3,11 @@ chaordic-code-challenge
 
 Chaordic - Code Challenge
 
+Requirements
+------------
+
+- ```PHP <http://php.net/>`_ >= 5.5.12``
+
 Usage
 -----
 
