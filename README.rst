@@ -7,6 +7,7 @@ Usage
 -----
 
 In order to run it locally, it's recommended to make use a web server in the project's root path.
+
 Here are some examples of built-in web servers:
 
 .. code-block:: bash
