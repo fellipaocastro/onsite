@@ -18,9 +18,15 @@ project's root path:
 
    $ php -S localhost:8000
 
-Deployment
-----------
+Deployment to Heroku
+--------------------
 
 .. code-block:: bash
 
    $ ./deploy.sh
+
+Domains
+-------
+
+- `<http://chaordic.fellipecastro.com/>`_
+- `<http://chaordic-code-challenge.herokuapp.com/>`_
