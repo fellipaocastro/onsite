@@ -1,4 +1,4 @@
-code-challenge
+chaordic-code-challenge
 ==============
 
 Chaordic - Code Challenge
