@@ -28,5 +28,5 @@ Deployment to Heroku
 Domains
 -------
 
-- `<http://chaordic.fellipecastro.com/>`_
-- `<http://chaordic-code-challenge.herokuapp.com/>`_
+- `<http://chaordic-onsite.fellipecastro.com/>`_
+- `<http://fc-chaordic-onsite.herokuapp.com/>`_
