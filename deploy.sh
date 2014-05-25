@@ -1,4 +1,4 @@
-HEROKU_URL = 'git@heroku.com:fc-chaordic-onsite.git'
+HEROKU_URL='git@heroku.com:fc-chaordic-onsite.git'
 
 git remote | grep 'heroku' &> /dev/null
 
