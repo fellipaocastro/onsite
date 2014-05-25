@@ -8,7 +8,7 @@ Usage
 
 In order to locally make the most out of it, it's recommended to make use of a web server in the project's root path.
 
-Here are some examples of built-in web servers:
+Below you will find some examples of built-in web servers:
 
 .. code-block:: bash
 
@@ -26,7 +26,7 @@ Deployment
     $ ./deploy.sh
 
 URL's
--------
+-----
 
 - `<http://chaordic-onsite.fellipecastro.com/>`_
 - `<http://fc-chaordic-onsite.herokuapp.com/>`_
