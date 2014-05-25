@@ -6,7 +6,7 @@ Chaordic - Code Challenge
 Usage
 -----
 
-In order to locally run it, it's recommended to make use of a web server in the project's root path.
+In order to locally make the most out of it, it's recommended to make use of a web server in the project's root path.
 
 Here are some examples of built-in web servers:
 
@@ -25,7 +25,7 @@ Deployment to Heroku
 
     $ ./deploy.sh
 
-Domains
+URL's
 -------
 
 - `<http://chaordic-onsite.fellipecastro.com/>`_
