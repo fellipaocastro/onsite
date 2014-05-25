@@ -1,7 +1,7 @@
-chaordic-code-challenge
-=======================
+chaordic-onsite
+===============
 
-Chaordic - Code Challenge
+Chaordic - OnSite
 
 Usage
 -----
@@ -18,8 +18,8 @@ Here are some examples of built-in web servers:
 
     $ php -S localhost:8000
 
-Deployment to Heroku
---------------------
+Deployment
+----------
 
 .. code-block:: bash
 
