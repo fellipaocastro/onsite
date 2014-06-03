@@ -24,9 +24,3 @@ Deployment
 .. code-block:: bash
 
     $ ./deploy.sh
-
-URL's
------
-
-- `<http://chaordic-onsite.fellipecastro.com/>`_
-- `<http://fc-chaordic-onsite.herokuapp.com/>`_
