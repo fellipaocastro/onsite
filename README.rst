@@ -1,7 +1,7 @@
-chaordic-onsite
-===============
+onsite
+======
 
-Chaordic - OnSite
+OnSite
 
 Usage
 -----
